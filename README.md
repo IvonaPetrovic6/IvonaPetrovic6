@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IvonaPetrovic6
-- 👀 I’m interested in software development and software engineering.
+- 👀 I’m interested in software development and software engineering
 - 🌱 I’m currently learning/perfecting Python and C++
 - 💞️ I’m looking to collaborate on anything written in Python, C or C++
 - 📫 How to reach me: ivona.petrovic6@gmail.com
